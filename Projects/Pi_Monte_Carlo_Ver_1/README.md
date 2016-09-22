@@ -7,8 +7,7 @@ This program picks points at random inside the square. It then checks to see if 
 Pi is then approximated as follows:
 
 
-     4*M
-pi = ---
-      N
+     
+pi = 4*M / N
 
 
